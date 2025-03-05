@@ -1,0 +1,54 @@
+.lk-profile-form select {
+    background: #FFFFFF;
+    border: 2px solid #144f24;
+    border-radius: 10px;
+    padding: 0 15px;
+    font-size: 16px;
+}
+
+.lk-profile-form input:disabled {
+    background-color: transparent;
+}
+
+.order-list-table:not(.active) {
+    display: none;
+}
+
+div[data-order-create-tab]:not(.active) {
+    display: none;
+}
+
+.cstm-order-styles .bx-ui-sls-input-block {
+    background: #F3F3F3;
+    border-radius: 10px;
+    width: 100%;
+    height: 65px;
+    border: 0;
+    padding: 0 15px;
+    font-size: 16px;
+    color: #000;
+    font-family: "Montserrat", sans-serif;
+}
+
+.cstm-order-styles .bx-sls .dropdown-icon, .cstm-order-styles .bx-sls .dropdown-fade2white {
+    display: none;
+}
+.cstm-order-styles .bx-sls .bx-ui-sls-container {
+    height: 100%;
+}
+.cstm-order-styles select {
+    background: #F3F3F3;
+    border: 0;
+    border-radius: 10px;
+    padding: 0 15px;
+    font-size: 16px;
+    color: #000;
+    font-family: "Montserrat", sans-serif;
+    width: 100%;
+    min-height: 60px;
+}
+
+.catalog-item a.name {
+    height: auto;
+    display: block;
+}
